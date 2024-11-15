@@ -16,10 +16,7 @@ const ChatSidebar = () => {
   return (
     <div className="flex h-full flex-col border-r border-chat-border bg-chat-sidebar">
       <div className="flex h-16 items-center justify-between border-b border-chat-border px-4">
-        <div className="flex items-center gap-2">
-          <img src="/gre8-logo.png" alt="Gre8 Intelligence" className="h-8 w-auto" />
-          <h1 className="text-lg font-semibold">Gre8 Intelligence Comm</h1>
-        </div>
+        <h1 className="text-lg font-semibold">Gre8 Intelligence Comm</h1>
         <ChevronDown className="h-5 w-5 text-chat-text-secondary" />
       </div>
       
