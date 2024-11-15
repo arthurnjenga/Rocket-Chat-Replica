@@ -16,7 +16,7 @@ const ChatSidebar = () => {
   return (
     <div className="flex h-full flex-col border-r border-chat-border bg-chat-sidebar">
       <div className="flex h-16 items-center justify-between border-b border-chat-border px-4">
-        <h1 className="text-lg font-semibold">Workspace Name</h1>
+        <h1 className="text-lg font-semibold">Gre8 Intelligence Comm</h1>
         <ChevronDown className="h-5 w-5 text-chat-text-secondary" />
       </div>
       
